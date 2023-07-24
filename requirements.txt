@@ -1,0 +1,10 @@
+hydra-core
+omegaconf
+einops
+timm
+tqdm
+opencv-python
+matplotlib
+moviepy
+flow_vis
+git+https://github.com/facebookresearch/co-tracker.git
